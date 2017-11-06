@@ -2,4 +2,4 @@
 Digiprojekti kurssin github tehtävä
 
 
- Toimiiko pull request?
+Olen tiimimme fronttikoodaaja Onni. Tässä harjoituksessa yritän onnistua pull requestin tekemisessä.
