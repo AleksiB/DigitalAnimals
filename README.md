@@ -3,4 +3,4 @@ Digiprojekti kurssin github tehtävä
 
 
 
-Noniin, nyt muokataan saatana ÄSNEE
+Olen Onni Alkio, tiimimme fronttikoodaaja. Tämän harjoituksen aikana lähetän Aleksille HTML-pohja koodin Pull requestin avulla.
