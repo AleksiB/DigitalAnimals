@@ -1,0 +1,21 @@
+
+    
+#minigolf  {
+    background: url(minigolf1.jpg);
+    max-height: 100%;
+    max-width: 100%;
+    background-repeat: no-repeat;
+}    
+  
+#tennis {
+    background: url(tennis1.jpg);
+    max-height: 100%;
+    max-width: 100;
+    background-repeat: no-repeat;
+    
+}
+
+@import "bulma/sass/utilities/_all"
+@import "bulma/sass/grid/columns"
+@import "bulma/sass/utilities/_all"
+@import "bulma/sass/elements/button.sass"
